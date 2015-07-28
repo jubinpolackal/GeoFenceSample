@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFence", "TestFence\TestFence.csproj", "{C9609B33-35DA-421E-A728-259230E8ACAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Release|iPhone.Build.0 = Release|iPhone
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C9609B33-35DA-421E-A728-259230E8ACAA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
